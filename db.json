@@ -2,24 +2,24 @@
     "tokens": [
         {
             "id": 1,
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "external_url": "https://pack.systems/",
             "description": "This is the most rare item in the world.",
-            "image": "https://www.url.to/picture-of-item.png",
+            "image": "https://freight.cargo.site/w/450/i/dd3342bb9305cc194174ced06a0559038bac0f28957625ee32d8a6d3beea46e3/Main_Poster_PACK2017Web.jpg",
             "name": "PackCube"
         },
         {
             "id": 2,
             "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 1"
+            "external_url": "https://pack.systems/",
+            "image": "https://freight.cargo.site/w/450/i/dd3342bb9305cc194174ced06a0559038bac0f28957625ee32d8a6d3beea46e3/Main_Poster_PACK2017Web.jpg",
+            "name": "PackCube"
         },
         {
             "id": 3,
             "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 2"
+            "external_url": "https://pack.systems/",
+            "image": "https://freight.cargo.site/w/450/i/dd3342bb9305cc194174ced06a0559038bac0f28957625ee32d8a6d3beea46e3/Main_Poster_PACK2017Web.jpg",
+            "name": "PackCube"
         }
     ]
 }
